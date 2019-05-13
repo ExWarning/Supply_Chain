@@ -9,4 +9,5 @@
   "scripts": {
     "build": "node HellowWorld.js",
     "test": "standard"
+  }
 }
