@@ -1,13 +1,13 @@
 {
   "name": "abadie",
   "repository": {
-    "type": "git",
+    "type": "git"
   },
   "description": "Supply Chain application",
   "version": "1.0.0",
   "main": "HelloWorld.js",
   "scripts": {
-        "build": "node app.js",
-        "test": "standard"
-    }
+    "build": "node app.js",
+    "test": "standard"
+  }
 }
