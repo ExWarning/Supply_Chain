@@ -5,9 +5,9 @@
   },
   "description": "Supply Chain application",
   "version": "1.0.0",
-  "main": "HelloWorld.js"
+  "main": "HelloWorld.js",
   "scripts": {
-    "build": "node HellowWorld.js",
-    "test": "standard"
-  }
+        "build": "node app.js",
+        "test": "standard"
+    }
 }
