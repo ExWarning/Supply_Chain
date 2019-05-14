@@ -9,5 +9,8 @@
   "scripts": {
     "build": "node app.js",
     "test": "standard"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
   }
 }

@@ -1,8 +1,8 @@
 FROM node
 
-WORKDIR \Users\Jules\Desktop\M1\SupplyChain\Supply_Chain
+WORKDIR /usr/src/app
 
 ADD node_modules node_modules
-ADD app.js app.js
+ADD HelloWorld.js HelloWorld.js
 
-ENTRYPOINT ["node","app"]
+ENTRYPOINT ["node","HelloWorld"]
